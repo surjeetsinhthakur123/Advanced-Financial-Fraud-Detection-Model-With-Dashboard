@@ -92,3 +92,8 @@ To explore the Fraud Detection project, follow these steps:
 ## Contributing
 
 Feel free to contribute to the project! Whether it's bug fixes, new features, or improvements, your contributions are welcome.
+
+## Copyright
+© 2025 Advanced Financial Fraud Detection Model With Dashboard Project. All rights reserved.
+
+This project and its contents are the intellectual property of the creators. Unauthorized reproduction, distribution, or use of any part of this project without explicit permission is prohibited.
