@@ -82,7 +82,6 @@ To explore the Fraud Detection project, follow these steps:
 - **Documentation/**: Includes project documentation, reports, and guides for usage.
 
 ## Usage
-## Usage
 
 1. Open **fraud_detection.pbix** in Power BI Desktop.
 2. Explore dashboards using filters and slicers.
