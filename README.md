@@ -16,7 +16,7 @@ The Advanced Financial Fraud Detection Model with Dashboard is a robust fraud de
 
 ## Live Demo
 
-Explore the live project here: 
+Explore the live project here: https://app.powerbi.com/view?r=eyJrIjoiMDMxN2UzZTktNTczOC00N2IxLThjMzQtYTc2YzEyMDZmMjYwIiwidCI6ImJkNmQzYjM4LWE4MTktNGYyZS1iODhmLThiYzVkNGM0MDEyOSJ9
 
 ## Technologies Used
 
